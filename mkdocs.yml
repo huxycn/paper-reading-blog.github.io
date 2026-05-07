@@ -1,0 +1,9 @@
+site_name: 深度学习论文精读
+site_url: https://mydomain.org/mysite
+
+nav:
+  - Home: README.md
+  # - About: about.md
+
+theme:
+  name: material
